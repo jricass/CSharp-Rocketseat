@@ -1,0 +1,1 @@
+# Repositório para armazenamento de exercícios simples em C#
