@@ -13,3 +13,21 @@ C:\Users\joaoc\OneDrive\Documentos\Visual Studio Projects\.NET\TaskManager\TaskM
 C:\Users\joaoc\OneDrive\Documentos\Visual Studio Projects\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\refint\TaskManager.Application.dll
 C:\Users\joaoc\OneDrive\Documentos\Visual Studio Projects\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.pdb
 C:\Users\joaoc\OneDrive\Documentos\Visual Studio Projects\.NET\TaskManager\TaskManager.Application\obj\Debug\net8.0\ref\TaskManager.Application.dll
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.deps.json
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.dll
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.pdb
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.dll
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Exception.dll
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.pdb
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Exception.pdb
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.AssemblyReference.cache
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfoInputs.cache
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfo.cs
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.sourcelink.json
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskMana.898BD9DB.Up2Date
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.dll
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\refint\TaskManager.Application.dll
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.pdb
+C:\Users\joaoc\OneDrive\Documentos\Study-Repositories\CSharp-Rocketseat\In-Class-Projects\TaskManager\TaskManager.Application\obj\Debug\net8.0\ref\TaskManager.Application.dll

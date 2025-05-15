@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Visual Studio Projects\\.NET\\TaskManager\\",
+  "WorkspaceRootPath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9849BF9-AE86-4E63-9AC3-C28D421F9986}|TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\joaoc\\onedrive\\documentos\\visual studio projects\\.net\\taskmanager\\taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9849BF9-AE86-4E63-9AC3-C28D421F9986}|TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\joaoc\\onedrive\\documentos\\study-repositories\\csharp-rocketseat\\in-class-projects\\taskmanager\\taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9849BF9-AE86-4E63-9AC3-C28D421F9986}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6319FC3D-1F35-4550-8B6F-A469E6F4FF93}|TaskManager.Application\\TaskManager.Application.csproj|c:\\users\\joaoc\\onedrive\\documentos\\study-repositories\\csharp-rocketseat\\in-class-projects\\taskmanager\\taskmanager.application\\usecases\\tasks\\register\\registertaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6319FC3D-1F35-4550-8B6F-A469E6F4FF93}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\tasks\\register\\registertaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397E1681-75A3-42F2-B553-C9030D0F2ABF}|TaskManager.Exception]\\TaskManager.Exception.csproj|c:\\users\\joaoc\\onedrive\\documentos\\study-repositories\\csharp-rocketseat\\in-class-projects\\taskmanager\\taskmanager.exception]\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{397E1681-75A3-42F2-B553-C9030D0F2ABF}|TaskManager.Exception]\\TaskManager.Exception.csproj|solutionrelative:taskmanager.exception]\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6319FC3D-1F35-4550-8B6F-A469E6F4FF93}|TaskManager.Application\\TaskManager.Application.csproj|c:\\users\\joaoc\\onedrive\\documentos\\study-repositories\\csharp-rocketseat\\in-class-projects\\taskmanager\\taskmanager.application\\usecases\\tasks\\register\\registertaskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6319FC3D-1F35-4550-8B6F-A469E6F4FF93}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\tasks\\register\\registertaskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6319FC3D-1F35-4550-8B6F-A469E6F4FF93}|TaskManager.Application\\TaskManager.Application.csproj|c:\\users\\joaoc\\onedrive\\documentos\\study-repositories\\csharp-rocketseat\\in-class-projects\\taskmanager\\taskmanager.application\\taskmanager.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6319FC3D-1F35-4550-8B6F-A469E6F4FF93}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\taskmanager.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CFEA5E-9A7A-4C24-915E-A9E9D08EC09F}|TaskManager.Communication\\TaskManager.Communication.csproj|c:\\users\\joaoc\\onedrive\\documentos\\study-repositories\\csharp-rocketseat\\in-class-projects\\taskmanager\\taskmanager.communication\\responses\\taskresponsejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CFEA5E-9A7A-4C24-915E-A9E9D08EC09F}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\responses\\taskresponsejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9849BF9-AE86-4E63-9AC3-C28D421F9986}|TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\joaoc\\onedrive\\documentos\\study-repositories\\csharp-rocketseat\\in-class-projects\\taskmanager\\taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9849BF9-AE86-4E63-9AC3-C28D421F9986}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9849BF9-AE86-4E63-9AC3-C28D421F9986}|TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\joaoc\\onedrive\\documentos\\study-repositories\\csharp-rocketseat\\in-class-projects\\taskmanager\\taskmanager.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9849BF9-AE86-4E63-9AC3-C28D421F9986}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CFEA5E-9A7A-4C24-915E-A9E9D08EC09F}|TaskManager.Communication\\TaskManager.Communication.csproj|c:\\users\\joaoc\\onedrive\\documentos\\study-repositories\\csharp-rocketseat\\in-class-projects\\taskmanager\\taskmanager.communication\\responses\\responseerrorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CFEA5E-9A7A-4C24-915E-A9E9D08EC09F}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\responses\\responseerrorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +46,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskManager.Application",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj",
+              "RelativeDocumentMoniker": "TaskManager.Application\\TaskManager.Application.csproj",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj",
+              "RelativeToolTip": "TaskManager.Application\\TaskManager.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T00:39:11.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskResponseJson.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Communication\\Responses\\TaskResponseJson.cs",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\Responses\\TaskResponseJson.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Communication\\Responses\\TaskResponseJson.cs",
+              "RelativeToolTip": "TaskManager.Communication\\Responses\\TaskResponseJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:41:15.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Api\\Program.cs",
+              "RelativeToolTip": "TaskManager.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:39:27.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterTaskValidator.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskValidator.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskValidator.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskValidator.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:38:12.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResourceErrorMessages.resx",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Exception]\\ResourceErrorMessages.resx",
+              "RelativeDocumentMoniker": "TaskManager.Exception]\\ResourceErrorMessages.resx",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Exception]\\ResourceErrorMessages.resx",
+              "RelativeToolTip": "TaskManager.Exception]\\ResourceErrorMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-15T00:36:40.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterTaskUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:37:38.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseErrorJson.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Communication\\Responses\\ResponseErrorJson.cs",
+              "RelativeDocumentMoniker": "TaskManager.Communication\\Responses\\ResponseErrorJson.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Communication\\Responses\\ResponseErrorJson.cs",
+              "RelativeToolTip": "TaskManager.Communication\\Responses\\ResponseErrorJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:33:13.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "TaskManager.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "TaskManager.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:30:25.726Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Visual Studio Projects\\.NET\\TaskManager\\TaskManager.Api\\Controllers\\TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Api\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "TaskManager.Api\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Visual Studio Projects\\.NET\\TaskManager\\TaskManager.Api\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Api\\Controllers\\TaskController.cs",
               "RelativeToolTip": "TaskManager.Api\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAUwEgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T01:43:45.457Z",
               "EditorCaption": ""

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0Afr/RKd7dY=",
+  "dgSpecHash": "BEPVyVC6kD4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Visual Studio Projects\\.NET\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\joaoc\\OneDrive\\Documentos\\Study-Repositories\\CSharp-Rocketseat\\In-Class-Projects\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaoc\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
