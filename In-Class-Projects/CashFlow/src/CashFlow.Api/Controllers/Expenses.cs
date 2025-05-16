@@ -1,20 +1,28 @@
 ﻿using CashFlow.Application.UseCases.Expenses.Register;
 using CashFlow.Communication.Requests;
+using CashFlow.Domain.Entities;
+using CashFlow.Infrastructure.DataAccess;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CashFlow.Api.Controllers;
 
 [Route("api/[controller]")]
-[ApiController]
-public class Expenses : ControllerBase
+public class ExpensesController : ControllerBase
 {
-    [HttpPost]
-    public IActionResult Register([FromBody] RequestRegisterExpenseJson request)
+    private readonly CashFlowDbContext _dbContext;
+
+    public ExpensesController(CashFlowDbContext dbContext)
     {
-        var UseCase = new RegisterExpenseUseCase();
+        _dbContext = dbContext;
+    }
 
-        var response = UseCase.Execute(request);
+    [HttpPost]
+    public IActionResult Register(
+        [FromServices] IRegisterExpenseUseCase useCase,
+        [FromBody] RequestRegisterExpenseJson request)
+    {
+        var response = useCase.Execute(request);
 
-        return Created();
+        return Ok(response);
     }
 }
